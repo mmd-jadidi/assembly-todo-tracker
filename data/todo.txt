@@ -1,0 +1,6 @@
+1|D|.|Wash the car
+2|P|!|Finish Assembly Project
+3|D|*|Buy groceries and millll
+4|P|.|Wash the car
+5|P|!|Finish Assembly Project
+6|P|*|Buy groceries

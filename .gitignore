@@ -1,0 +1,9 @@
+# Build outputs and binaries
+logs/
+*.o
+main
+
+# Archives and temporary files
+*.zip
+*.tar.gz
+PLEASE__README.txt.txt
